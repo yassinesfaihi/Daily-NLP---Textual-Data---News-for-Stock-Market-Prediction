@@ -2,13 +2,13 @@
 
 ## Tools Used
 
-*pandas
-*seaborn
-*matplotlib
-*nltk
-*sklearn
-*gensim
-*numpy
+* pandas
+* seaborn
+* matplotlib
+* nltk
+* sklearn
+* gensim
+* numpy
 
 
 ##  Text Preprocessing Techniques
