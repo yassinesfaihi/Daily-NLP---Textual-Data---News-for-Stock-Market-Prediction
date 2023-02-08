@@ -1,4 +1,4 @@
-# Daily NLP Textual-Data News for Stock Market Prediction
+#  NLP Textual-Data Daily News for Stock Market Prediction
 
 ## Tools Used
 
