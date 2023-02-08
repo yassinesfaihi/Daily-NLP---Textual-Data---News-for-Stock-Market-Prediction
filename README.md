@@ -1,6 +1,36 @@
 # Daily NLP Textual-Data News for Stock Market Prediction
 
+## Tools Used
 
+*pandas
+*seaborn
+*matplotlib
+*nltk
+*sklearn
+*gensim
+*numpy
+
+
+##  Text Preprocessing Techniques
+Removing stop words
+Stemming
+Vectorizing the text data
+Tokenizing the words
+Lemmatizing the words
+Removing punctuation and special characters
+## Feature Generation Techniques
+Term frequency-inverse document frequency (TF-IDF)
+Word count
+Character count
+Punctuation count
+## Machine Learning Models Used
+
+Logistic Regression
+Support Vector Classifier (SVC)
+Random Forest
+Gradient Boosting
+K-Nearest Neighbors (KNN)
+Decision Tree
 
 This project focuses on the problem of binary classification using various machine learning
 models.
